@@ -37,3 +37,9 @@ And that's it! You're all set to study with a motivational cat. Feel free to pin
 ## License
 
 `Meowtivation` is licensed under the [MIT License](/LICENSE).
+
+## Contributing
+
+Contributions are welcome! If you have a suggestion or an issue, please use the issue tracker to let me know.
+
+
