@@ -23,6 +23,8 @@ If you want to contribute to this repository, you need to first [create your own
 
 After you've created a fork, follow our installation instructions in our [README.md](https://github.com/ossd-s25/Meowtivation/blob/main/README.md) file.
 
+Chrome for developers provides resources on working with [Chrome extensions](https://developer.chrome.com/docs/extensions/)
+
 ### Roadmap
 
 #### 📅 Q1 2025 – The Purrfect Expansion
