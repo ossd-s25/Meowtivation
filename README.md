@@ -27,15 +27,15 @@ First, go to the [Giphy developer site](https://developers.giphy.com) and create
 
 Once you have an account, go to the [Giphy dashbaord](https://developers.giphy.com/dashboard/) and click "Create an API Key"
 
-<img src="https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/documentation/giphy_dashboard.jpg" width="200px">
+<img src="https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/documentation/giphy_dashboard.jpg" width="400px">
 
 Then, select "SDK" and click "Next Step":
 
-<img src="https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/documentation/giphy_select_sdk.jpg" width="200px">
+<img src="https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/documentation/giphy_select_sdk.jpg" width="400px">
 
 Next, enter some information about the app. Here is an example of the type of information to add:
 
-<img src="https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/documentation/giphy_api_key_settings.jpg" width="200px">
+<img src="https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/documentation/giphy_api_key_settings.jpg" width="400px">
 
 Now you should have an API key! Please copy it, and paste it into the `apiKey` variable in `popup.js` right [here](https://github.com/ossd-s25/Meowtivation/blob/47968628b14dc2b867381092d86db258f66483d0/src/popup.js#L1C16-L1C18)
 
