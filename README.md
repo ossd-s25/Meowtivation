@@ -37,3 +37,8 @@ And that's it! You're all set to study with a motivational cat. Feel free to pin
 ## License
 
 `Meowtivation` is licensed under the [MIT License](/LICENSE).
+
+## Contributors
+- [Lulu Zhu](https://github.com/LuluZhuu)
+- [Jacob Padilla](https://github.com/jpjacobpadilla)
+- [Brizen Britt](https://github.com/briz123)
