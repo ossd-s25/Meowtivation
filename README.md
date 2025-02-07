@@ -68,4 +68,6 @@ Read more about contributing to Meowtivation in [CONTRIBUTING.md](https://github
 - [Jacob Padilla](https://github.com/jpjacobpadilla)
 - [Brizen Britt](https://github.com/briz123)
 
+### Discussion Board
 
+Please feel free to comment and create discussions in our [github discussion board](https://github.com/ossd-s25/Meowtivation/discussions/)! 
