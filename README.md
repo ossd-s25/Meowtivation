@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ossd-s25/Meowtivation/blob/0ea65752832ec344e9069951768c7e87f5543c5c/logos/Meowtivation.png" width="300px">
+    <img src="https://github.com/ossd-s25/Meowtivation/blob/d2aecd3628c686cbd4d5eaef45ec0919a965f5ea/logos/Meowtivation.png" width="300px">
 </p>
 <h3 align="center">Meowtivation – A Purr-fect Study Companion!</h3>
 
