@@ -40,5 +40,6 @@ Read more about contributing to Meowtivation in [CONTRIBUTING.md](https://github
 
 ## Contributors
 - [Lulu Zhu](https://github.com/LuluZhuu)
+- [Jacob Padilla](https://github.com/jpjacobpadilla)
 
 
