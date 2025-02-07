@@ -1,3 +1,11 @@
 #cat-gif {
     border-radius: 10px;
 }
+@font-face {
+    font-family: 'Balbaleo';
+    src: URL('Balbaleo.ttf') format('truetype');
+}
+title {
+    color: #fdb3fd;
+}
+
