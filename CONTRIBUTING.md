@@ -18,7 +18,7 @@ use GitHub pull requests.
 
 ### Setting up your Environment
 
-If you want to contribute to this repository, you need to first [create your own fork](https://docs.github.com/en/)Use the following steps to get started:
+If you want to contribute to this repository, you need to first [create your own fork](https://docs.github.com/en/). Use the following steps to get started:
 
 ```sh
 git clone https://github.com/ossd-s25/Meowtivation
