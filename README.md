@@ -6,10 +6,6 @@
 
 Meowtivation is an open-source MIT-licensed browser extension designed to provide motivation to students studying by allowing them to simply click on the extension and be greeted with an inspiration cat gif.
 
-## How to contribute
-
-Read more about contributing to Meowtivation in [CONTRIBUTING.md](https://github.com/ossd-s25/Meowtivation/CONTRIBUTING.md).
-
 ## Installation
 
 Follow this simple guide to get the extension set up:
@@ -33,6 +29,11 @@ the page and click "Load Unpacked extension". Then, select the `src` folder in t
 
 And that's it! You're all set to study with a motivational cat. Feel free to pin the extension for the best experience.
 
+## How to contribute
+
+Contributions are welcome! If you have a suggestion or an issue, please use the issue tracker to let me know.
+
+Read more about contributing to Meowtivation in [CONTRIBUTING.md](https://github.com/ossd-s25/Meowtivation/CONTRIBUTING.md).
 
 ## License
 
@@ -42,3 +43,5 @@ And that's it! You're all set to study with a motivational cat. Feel free to pin
 - [Lulu Zhu](https://github.com/LuluZhuu)
 - [Jacob Padilla](https://github.com/jpjacobpadilla)
 - [Brizen Britt](https://github.com/briz123)
+
+
