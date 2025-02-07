@@ -23,6 +23,5 @@ If you want to contribute to this repository, you need to first [create your own
 ```sh
 git clone https://github.com/ossd-s25/Meowtivation
 
-# please install any dependencies
-npm install
+cd Meowtivation
 ```
